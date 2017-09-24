@@ -1,0 +1,25 @@
+.em-text {
+	color: #46cd48 !important;
+}
+
+body {
+	padding-top:50px;
+}
+
+.jumbotron h1{
+	margin-top: 100px;
+}
+
+.jumbotron {
+	background: url('img/background.jpg') no-repeat top;
+	height: 598px;
+	overflow: none;	
+	text-align: center;
+	vertical-align: middle;
+}
+
+.app-btn {
+	width: 30%;
+	margin-right: 10px;
+	height: 60px ;
+}
